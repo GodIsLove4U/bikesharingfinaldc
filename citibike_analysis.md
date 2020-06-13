@@ -1,45 +1,42 @@
-// Title examples
 # NYC Citi Bike Analysis
-## Des Moines, IA Proposal
-### Board Meeting & Discussion
+## Des Moines, IA Proposal - Board Meeting & Discussion
 
-// Place links here
+## Tableau Analysis
 [link to dashboard](https://public.tableau.com/profile/doris.b.cohen#!/vizhome/BikeshareChallengeFINAL/StoryChallenge?publish=yes)
 [link to dashboard]("https://public.tableau.com/profile/doris.b.cohen#!/vizhome/BikeshareChallengeFINAL/StoryChallenge?publish=yes")
 
-// Examples of titles
 # Summary of Analysis
 This Tableau story includes information of the analysis I performed on New York City's bike sharing data in August 2019. It provides details on the number of users, ages, length of trip and bike utilized. This information was important to aanlyze for the Des Moines proposal I've prepared for the Board. We would like to start a bike-sharing program in Des Moines and wanted to provide data to our board for them to make a decison and secure funding. 
 
 The analysis provides some great insights into the bike sharing phenomenon, along with use cases and the benefits for bringing this means of transporation to a city, like ours, that would benefit from adopting this program. The summary will answer questions about population, demographics, ecomony, tourism and transportation.
 
 ## Summary of Each Page
-### Executive Summary
+Executive Summary
 This page feature information about Des Moines, IA. It is the beginning of the conversation for the board to look at facts and historical data about Des Moines. In addition, it provides some coomparative data about the two cities. 
 
-### Bike Sharing History & Map
+Bike Sharing History & Map
 Location of bikeshare cities and the number of bikes for rental. Ths map is from 2017 https://nacto.org/bike-share-statistics-2017/.
 
-### UCBE Challenge Info on Des Moines
+UCBE Challenge Info on Des Moines
 Information about the focus of the challenge. A link to Des Tourism and Things to Do, along with a link the the United States Census Bureau. 
 
-### NYC Rental Data
+NYC Rental Data
 August 2019 rental data volume by time of day
 
-### NYC Bike Usage
+NYC Bike Usage
 Graph with the length of bike rental by renters birth year
 
-### Starting Location Map
+Starting Location Map
 Map of locations where bikes are rented from 
 
-### Bike Utility Scale
+Bike Utility Scale
 Interactive bubble chart with a scale based on range of times a bike was utilized in August
 
-### Conclusion
+Conclusion
 Reasons for approving budget and location of bike stations
 
 
-## Additional Information about analysis
+## Additional Information about bike sharing
 
 # What is bike sharing?
 https://www.moneycrashers.com/bike-sharing-best-bike-share-programs/
