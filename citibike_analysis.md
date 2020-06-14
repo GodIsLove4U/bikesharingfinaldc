@@ -1,8 +1,8 @@
 # NYC Citi Bike Analysis
 ### Des Moines, IA Proposal - Board Meeting & Discussion
 
-## Tableau Analysis
-[link to dashboard](https://public.tableau.com/profile/doris.b.cohen#!/vizhome/BikeshareChallengeFINAL/StoryChallenge?publish=yes)
+## Tableau Analysis Link
+[Tableau Link to Bikeshare Story](https://public.tableau.com/profile/doris.b.cohen#!/vizhome/BikeshareChallengeFINAL/StoryChallenge?publish=yes)
 [link to dashboard]("https://public.tableau.com/profile/doris.b.cohen#!/vizhome/BikeshareChallengeFINAL/StoryChallenge?publish=yes")
 
 ### Summary of Analysis
@@ -11,35 +11,26 @@ This Tableau story includes information of the analysis I performed on New York 
 The analysis provides some great insights into the bike sharing phenomenon, along with use cases and the benefits for bringing this means of transporation to a city, like ours, that would benefit from adopting this program. The summary will answer questions about population, demographics, ecomony, tourism and transportation.
 
 ### Summary of Each Page
-Executive Summary: This page feature information about Des Moines, IA. It is the beginning of the conversation for the board to look at facts and historical data about Des Moines. In addition, it provides some coomparative data about the two cities. 
+_Executive Summary_: This page feature information about Des Moines, IA. It is the beginning of the conversation for the board to look at facts and historical data about Des Moines. In addition, it provides some coomparative data about the two cities. 
 
-Bike Sharing History & Map: Location of bikeshare cities and the number of bikes for rental. Ths map is from 2017 https://nacto.org/bike-share-statistics-2017/.
+_Bike Sharing History & Map_: Location of bikeshare cities and the number of bikes for rental. Ths map is from 2017 https://nacto.org/bike-share-statistics-2017/.
 
-UCBE Challenge Info on Des Moines: Information about the focus of the challenge. A link to Des Tourism and Things to Do, along with a link the the United States Census Bureau. 
+_UCBE Challenge Info on Des Moines_: Information about the focus of the challenge. A link to Des Tourism and Things to Do, along with a link the the United States Census Bureau. 
 
-NYC Rental Data: August 2019 rental data volume by time of day
+_NYC Rental Data_: August 2019 rental data volume by time of day. Providing viewers with an interactive chart to look at rental information and select times when bike were rented in August. 
 
-NYC Bike Usage: Graph with the length of bike rental by renters birth year
+_NYC Bike Usage_: Graph with the length of bike rental by renters birth year. Chart depicts the consistenty of bike usage from 1950 tp present. Older renters did not use the bikes with the same level of consistency. 
 
-Starting Location Map: Map of locations where bikes are rented from 
+_Starting Location Map_: Map of locations where bikes are rented from in August. Bike rentals range from 1 renter to 15,564 renters in one month. The rentals are most constant between Washington Square Park, Penn Station and Madison Square Park. 
 
-Bike Utility Scale: Interactive bubble chart with a scale based on range of times a bike was utilized in August
+_Bike Utility Scale_: Interactive bubble chart with a scale based on range of times a bike was utilized in August 2019. This chart will assist us with maintaining, replacing and reparing the bikes. It will also assist in making decisions on the types of bikes and equipment to purchase, if we decide to provide different types products and services to our customers. 
 
-Conclusion: Reasons for approving budget and location of bike stations
+_Conclusion_: Reasons for approving budget and location of bike stations based on our data and reseach. 
 
 
 ## Additional Information about bike sharing
 
 ### What is bike sharing?
-https://www.moneycrashers.com/bike-sharing-best-bike-share-programs/
-
-A bicycle-sharing system, public bicycle scheme,[1] or public bike share (PBS) scheme,[2] is a service in which bicycles are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" and return it at another dock belonging to the same system. Docks are special bike racks that lock the bike, and only release it by computer control. The user enters payment information, and the computer unlocks a bike. The user returns the bike by placing it in the dock, which locks it in place. Other systems are dockless. For many systems, smartphone mapping apps show nearby available bikes and open docks.
-
-### What's the origin?
-Tulsa, OK - 2007
-Gold standard - NYC Citi Bike
-https://www.curbed.com/2019/12/16/20864145/bike-share-citi-bike-jump-uber
-
 
 ### Historical Data
 Bike sharing gained its popoularity in 2007, when Tulsa, OK started its program. However, the ideology behind using bikes as a source of transportation, exercise, socialization and recreation have been around, on a national and international level, for decades. In the United States, New York City is the gold standard for bike sharing programs. This is due, in large part, to the need for navigating thru the city in ways that save time and space. New York City is a central location for commerce, education and vacation. Add to that, the cities population is 8.4 million, ditributed over 300 square miles. So, real estate is at a premium, which affects the ability to navigate the city with a car. 
