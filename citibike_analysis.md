@@ -1,9 +1,6 @@
-# NYC Citi Bike Analysis
-### Des Moines, IA Proposal - Board Meeting & Discussion
+# Des Moines, IA Bike Sharing Proposal - Board Meeting & Discussion
 
-## Tableau Analysis Link
-[Tableau Link to Bikeshare Story](https://public.tableau.com/profile/doris.b.cohen#!/vizhome/BikeshareChallengeFINAL/StoryChallenge?publish=yes)
-[link to dashboard]("https://public.tableau.com/profile/doris.b.cohen#!/vizhome/BikeshareChallengeFINAL/StoryChallenge?publish=yes")
+## Tableau Analysis Link [Tableau Link to Bikeshare Story](https://public.tableau.com/profile/doris.b.cohen#!/vizhome/BikeshareChallengeFINAL/StoryChallenge?publish=yes)
 
 ### Summary of Analysis
 This Tableau story includes information of the analysis I performed on New York City's bike sharing data in August 2019. It provides details on the number of users, ages, length of trip and bike utilized. This information was important to analyze for the Des Moines proposal I've prepared for the Board. We would like to start a bike-sharing program in Des Moines and wanted to provide data to our board for them to decide and secure funding. 
@@ -68,4 +65,5 @@ Below is a map of the proposed bike station locations. This is based on our rese
 
 Our economy plays a huge part in affordability of any type of transportation program. Due to the recent loss of jobs, bikes will assist in bridging the transportation gap. Bikes are more affordable and offer health benefits. We will also look at different types of biking, such as scooters and electric-powered bikes for those in need of something different. 
 
+We look forward to the support of our Board. We're excited for this opportunity to offer bike sharing to our residents and visitors!
 
